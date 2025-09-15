@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "content": "message from John", 
+        "is_read": false
+    },
+
+    {
+        "id": 2,
+        "content": "message from John", 
+        "is_read": false
+    },
+
+    {
+        "id": 3,
+        "content": "message from John", 
+        "is_read": false
+    },
+
+    {
+        "id": 4,
+        "content": "message from John", 
+        "is_read": false
+    },
+
+    {
+        "id": 5,
+        "content": "message from John", 
+        "is_read": false 
+    }
+
+    
+]

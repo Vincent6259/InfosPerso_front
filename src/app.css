@@ -1,0 +1,24 @@
+@import "tailwindcss";
+@import '../node_modules/preline/variants.css';
+
+* {
+    box-sizing: border-box;
+}
+
+.teal {
+    background-color: #B2EBF2;
+}
+
+.green {
+    background-color: #63CD63;
+}
+
+
+.blue {
+    background-color: #05aff9;
+}
+
+.red {
+    background-color: #F44336;
+   } 
+
